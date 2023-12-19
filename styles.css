@@ -46,7 +46,7 @@ footer {
   gap: 2rem;
 }
 .footer__section {
-  border: 1px solid #666;
+  border: 0px solid #666;
   width: 23rem;
   padding: 1.2rem;
 }
