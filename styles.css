@@ -30,7 +30,7 @@ footer {
   align-items: center;
   flex-direction: column;
   margin-top: 10rem;
-  border-top: 4px solid #efefef;
+  border-top: 2px solid #eee;
   width: 100%;
   color: #343a40;
 }
@@ -39,11 +39,14 @@ footer {
   justify-self: flex-start;
   padding-left: 2rem;
   font-size: 3rem;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
 }
 .footer__main1,
 .footer__main2 {
   display: flex;
   gap: 2rem;
+  font-size: 1.3rem;
 }
 .footer__section {
   border: 0px solid #666;
@@ -187,7 +190,7 @@ footer {
 }
 /* ****************************** */
 .footer_menu_item_icon {
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 }
 .third__sec h2 {
   font-size: 2.2rem;
