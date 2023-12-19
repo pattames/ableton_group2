@@ -19,3 +19,20 @@ header {
   text-align: center;
   width: 100%;
 }
+
+.third__sec h2 {
+  font-size: 2.2rem;
+  line-height: 2;
+}
+
+.third__sec p {
+  font-size: 1.4rem;
+  line-height: 2;
+}
+
+#titlevideo {
+  font-weight: bold;
+}
+
+.third__sec iframe {
+}
