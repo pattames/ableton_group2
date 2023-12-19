@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  font-family: "Hind Madurai", sans-serif;
+}
+.container {
+  margin: 0 auto;
+  width: 80rem;
+}
+body {
+  background: #ffffff;
+}
+header {
+  text-align: center;
+  width: 100%;
+}
